@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "My Portfolio"
+
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "Projects"
+        href: project.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Skills"
+        href: skills.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+publish:
+  method: gh-pages

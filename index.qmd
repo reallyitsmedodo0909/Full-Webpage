@@ -1,8 +1,6 @@
 ---
 title: "Home"
 format: html
-theme: cosmo
-css: "custom.css"
 ---
 
 # Welcome to My Portfolio
@@ -13,11 +11,21 @@ MBA Candidate \| Revenue Growth Stratagist \| B2B Sales Enthusiast
 
 🙋‍♂️About Me I am a results-oriented MBA student with a proven background in SaaS based sales, retail operations, and HR tech implementation. Passionate about leadership, equity in business, and strategic growth, I bring a unique blend of customer-facing experience and behind-the-scenes operational insight. I’m currently enhancing my skills in data analytics, project management, and organizational leadership.
 
-🎓Education Master of Business Administration (MBA) University Canada West, Canada Expected Graduation: September 2025
+🎓Education Master of Business Administration (MBA)
 
-Bachelor of Business Administration (BBA) Graphic Era Deemed University, India Graduated: June 2021
+University Canada West, Canada
 
-💼Professional Experience Business Development Executive – PulseHRM - Sold and implemented SaaS-based HR software.
+Expected Graduation: September 2025
+
+Bachelor of Business Administration (BBA)
+
+Graphic Era Deemed University, India
+
+Graduated: June 2021
+
+💼Professional Experience Business Development Executive – PulseHRM
+
+-   Sold and implemented SaaS-based HR software.
 
 -   It was a B2B type of sales.
 
@@ -53,7 +61,9 @@ Cross-cultural Communication
 
 Sales and Nigotiations
 
-📞 Contact Me 📧 divyanshusddn\@gmail.com
+📞 Contact Me
+
+📧 divyanshusddn\@gmail.com
 
 📞+1 (604) 499 1349
 
