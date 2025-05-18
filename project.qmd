@@ -1,0 +1,24 @@
+---
+title: "Project"
+format: html
+---
+
+## **Performance Management**
+
+**1. Client-Centric Research & Insight Gathering**
+
+At Evam Tech Labs, I was involved with a crucial role in the development of the **Performance Management Module** for our HRM platform, called **PulseHRM**. I interviewed HR leaders, managers, and stakeholders from **25 client organizations** to understand their current performance evaluation process and values. This research was supported by direct access to HR datasets, which enabled me to conduct a deep study of how KPIs (Key Performance Indicators) and KRAs (Key Result Areas) were being applied in real-world cases.
+
+**2. Identifying the Need for Customization**
+
+A major conclusion from my analysis was that ‘each organization had its methodology and expectations when it comes to KPIs and KRAs.’ Considering this, I suggested there should be a **fully customizable framework**. This recommendation became a core feature of the product, enabling clients to define, modify, and manage performance indicators in coordination with their different business objectives and organization structures.
+
+**3. Driving Product Adoption & Client Engagement**
+
+Apart from product development, I actively dealt with **new and existing clients** to drive the inclusion of the module. In many cases, I made clients aware of our pre-built KPI and KRA models, especially when they needed a ready-to-use structure. My ability to place product value and align it with business outcomes played a significant role in building client trust and onboarding.
+
+**4. Bridging Product Strategy with Real-World Application**
+
+By blending **customer-facing responsibilities with product strategy**, I was able to ensure that PulseHRM’s performance module was not just technically relevant but also **practical and user-friendly**. These two responsibilities enabled me to convert complex client requirements into actionable software features, delivering a scalable, adaptable, and effective performance management solution.
+
+https://pulsehrm.com/about-pulsehrm/

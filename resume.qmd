@@ -1,0 +1,69 @@
+---
+title: "Resume"
+format: html
+---
+
+## **DIVYANSHU SHARMA**
+
+## **About**
+
+I am a results-oriented MBA student with a proven background in SaaS based sales, retail operations, and HR tech implementation. Passionate about leadership, equity in business, and strategic growth, I bring a unique blend of customer-facing experience and behind-the-scenes operational insight. I’m currently enhancing my skills in data analytics, project management, and organizational leadership.
+
+## ![Briefcase with solid fill](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABMCAYAAADOfPFRAAAAAXNSR0ICQMB9xQAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAKKSURBVHja7ZtNaBNBGIZX2mKloZdY0QjiT9EmIHjQnoqKOYsIXgKeevHmrZXY5pA2TRrJwVJaTQvixT+86NWDx9KroO2hLZaS1pOIOZRWD/oOmUIYtl1nkx2zu+/Aw5IQvv3mYdnMzDdjZbNZi+wPJVAQBVEQBVEQBVFQ025oWe2gF/SD6+CaBlfBZXAetAVOENoFUAYb4Df445JvYBZcDIwgKWexASl2LIG47wWhdYFnTZazx3vQ4XdB4v3x0yNBVZD0u6BBpVO/wFuQB5OavLB5f6X9LiitdOir+CdyGesYqCjxSn4XNKp06AvocxnrDFhR4hX9LmhE6dAySLiMdRasBU3QQxtB8QaeIFXQpN8FPbAZv5xzGeskWFXiTfw3QWhHwB3wGMyDp5rMgAWlQz/AGzka1on1BLy0GTJ8lvfRza0s+5UCndqC5LxpGux4NIZpFXbBaxDRFSQmh9sBl1PPTV1BmRDJEWR0BRVDJiinKygfMkFjFERBFERBFERBFERBFPRvggoGkqrKmb2oejy3QawgvJO/8zqXcV1BjwwktQ6OOuRx2maZ1QvyuoJOgRseMwC6HfI4bNVKzkmPcxHFzUPcvMDdHYYEod0Gcx4zAaIOeRwHWQO53NIVNGXgxfjdcljAR0uATQO5lFpxHCS2slxxyOOSIUEtOVAUC+ZDDnncD/tIegvck+8asVUmIq8n5PcVTjVqOz5ExfVTHeKzyZIT52IUREEUREEUREEUREEUREEUREEUREEUFHZBhZAJ0q6s5vgEHSwoFTJBd3UFRcGHkMj5CHrcnNWIgWGrdkYiaLySV3HYJtZQ6dmqndsIJKzNc/MCBVEQBVEQBVEQoSAKoiDD/AUsL5IT65OlLAAAAABJRU5ErkJggg==){alt="Briefcase with solid fill"} **Work Experience**
+
+## **Business Development Executive \| Evam Tech Labs Pvt Ltd**
+
+**Oct 2021 - Oct 2023**
+
+Provided comprehensive technical support for PulseHRM software, troubleshooting, and resolving customer queries to ensure optimal user experience and satisfaction.
+
+Managed the implementation of client data into PulseHRM, overseeing the integration of key HR information such as employee names, salary structures, compensation details, and job grades, ensuring accurate and seamless data processing.
+
+Processed payroll by collecting and verifying employee payroll components against client-provided spreadsheets, utilizing Microsoft Excel for detailed reconciliation and verification to ensure accurate payroll processing.
+
+Played an active role in managing new development requirements for PulseHRM software, including evaluating feasibility, preparing quotations, and engaging in client negotiations to deliver tailored solutions.
+
+Coordinated project timelines, facilitated client demos, and provided training on new features to ensure customers were fully equipped to leverage software capabilities.
+
+Collaborated closely with internal teams to assess client feedback, identify areas for improvement, and contribute to software upgrades, enhancing product functionality and customer satisfaction.
+
+## **Business Development Executive \| Planetspark**
+
+**July 2021 to September 2021**
+
+The experience of working as a Business Development Executive at PlanetSpark was very fulfilling and focused on personal development. My main responsibility was to establish a rapport with potential clients, learn about their needs, and clearly explain how PlanetSpark's educational solutions could satisfy those needs. I managed objections, led leads through the sales funnel to successful conversions, and gave thorough product demonstrations. I gained important insights into the EdTech landscape and consumer behavior, as well as strong communication and persuasion skills, through frequent interaction with parents and guardians.\
+Along with my sales duties, I constantly strived to meet and surpass monthly goals, frequently under pressure, which aided in the development of my keen sense of accountability and performance-driven thinking. Additionally, working with the operations and marketing teams exposed me to cross-functional coordination, which improved
+
+## **🎓 Education**
+
+**MBA**
+
+Master’s of Business Administration
+
+University Canada West
+
+April 2024 to September 2025 (Expected)
+
+**BBA**
+
+Bachelor's of Business Administration
+
+Graphic Era Deemed University
+
+Dehradun, India
+
+2018 to 2021
+
+7.62 CGPA
+
+## **🛠️ Skills**
+
+-   SaaS Tools (HubSpot, Asana, JIRA)
+
+-   Payroll & Data Accuracy
+
+-   MS Excel, Markdown, Client Relations
+
+-   Cross-cultural Communication
+
+-   Sales and Negotiations
